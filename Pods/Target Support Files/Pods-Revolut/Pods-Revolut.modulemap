@@ -1,0 +1,6 @@
+framework module Pods_Revolut {
+  umbrella header "Pods-Revolut-umbrella.h"
+
+  export *
+  module * { export * }
+}
